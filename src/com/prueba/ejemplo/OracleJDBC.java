@@ -24,6 +24,7 @@ public class OracleJDBC {
 		}
  
 		System.out.println("Oracle JDBC Driver Registered!");
+		System.out.println("Clase de prueba");		
  
 		Connection connection = null;
  
